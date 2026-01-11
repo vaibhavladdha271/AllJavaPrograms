@@ -22,6 +22,12 @@ public class reverseString {
         firstRepeatingCharacter(s);
         System.out.println();
         lastRepeatingCharacter(s);
+        System.out.println();
+        firstNonRepeatingCharacter(s);
+    }
+
+    private static void firstNonRepeatingCharacter(String s) {
+
     }
 
     private static void lastRepeatingCharacter(String s) {
